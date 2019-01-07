@@ -10,8 +10,7 @@ img {
 </head>
 <body>
 
-<img src="images/tenor.gif" alt="WebApp" width="128" height="128">
-<img src="images/tenor.gif" alt="WebApp" style="width:128px;height:128px;">
+<img src="images/tenor.gif" alt="WebApp" width="200" height="200">
 
 </body>
 </html>
