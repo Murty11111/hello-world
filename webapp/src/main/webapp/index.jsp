@@ -10,7 +10,7 @@ img {
 </head>
 <body>
 
-<img src="images/tenor.gif" alt="WebApp" width="200" height="200">
+<img src="images/successful.jpg" alt="Deployment Success" style="width:200px;height:200px;">
 
 </body>
 </html>
